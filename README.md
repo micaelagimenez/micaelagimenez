@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @micaelagimenez
-- 👀 I’m interested in python (mostly django) and java.
+- 👀 I’m interested in python (mostly django).
 - 🌱 Technologies: Python, DRF, HTML, CSS, Git, Heroku, NLTK.
 
 

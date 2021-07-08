@@ -9,10 +9,9 @@
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
-
-- 👀 I’m interested in python (mostly django).
-- 🌱 Technologies: Python, DRF, HTML, CSS, Git, Heroku, NLTK.
-
+### Contact me
+![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![image](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)[url](google.com)
 
 <!---
 micaelagimenez/micaelagimenez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

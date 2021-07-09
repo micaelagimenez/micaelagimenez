@@ -1,5 +1,5 @@
 # Hi, I’m Mica.
-I'm a backend developer and a linux enthusiast.
+I'm a software developer and a linux enthusiast.
 
 - I enjoy writing programs in python the most.
 - I'm currently learning java.

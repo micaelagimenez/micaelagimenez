@@ -1,5 +1,5 @@
 # Hi, I’m Mica.
-I'm a software developer and a linux enthusiast.
+I'm a software developer located in Buenos Aires.
 
 - I enjoy writing programs in python the most.
 - I'm currently learning android app development with kotlin.

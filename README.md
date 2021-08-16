@@ -16,3 +16,5 @@ I'm a software developer located in Buenos Aires.
 ![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micaelagimenez)](https://github.com/micaelagimenez/github-readme-stats)
+

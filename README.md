@@ -1,7 +1,7 @@
 # Hi, I’m Mica.
 I'm a software developer located in Buenos Aires.
 
-- I enjoy writing programs in python and kotlin the most.
+- I enjoy programming in python and kotlin the most.
 - I develop Android apps and Django websites.
 - I'm looking to collaborate with other developers.
 - I use arch btw.

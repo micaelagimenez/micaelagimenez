@@ -2,7 +2,7 @@
 I'm a software developer located in Buenos Aires.
 
 - I enjoy programming in python and kotlin the most.
-- I develop Android apps and Django websites.
+- I develop Android mobile apps and Django websites.
 - I'm looking to collaborate with other developers.
 
 ## Technologies

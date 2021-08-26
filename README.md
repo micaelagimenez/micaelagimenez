@@ -4,7 +4,6 @@ I'm a software developer located in Buenos Aires.
 - I enjoy programming in python and kotlin the most.
 - I develop Android apps and Django websites.
 - I'm looking to collaborate with other developers.
-- I use arch btw.
 
 ## Technologies
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

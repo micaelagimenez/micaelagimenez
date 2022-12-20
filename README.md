@@ -1,9 +1,8 @@
 # Hi, I’m Mica.
 I'm an Android developer located in Buenos Aires.
 
-- I enjoy programming in Kotlin and Python the most.
-- I develop Android mobile apps and sometimes Django websites.
-- I'm looking to collaborate with other developers.
+- I enjoy programming in Kotlin the most.
+- I develop Android mobile apps.
 
 ## Technologies
 ![image](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
